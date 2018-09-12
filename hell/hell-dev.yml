@@ -3,4 +3,4 @@ test:
     checkRules:
       #hell.req: 1
       #test.req: 0
-      test.resp: 1
+      #test.resp: 1
